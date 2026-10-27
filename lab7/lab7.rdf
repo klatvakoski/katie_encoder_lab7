@@ -22,7 +22,7 @@
             <Options VerilogStandard="System Verilog" top_module="counter"/>
         </Source>
         <Source name="source/impl_1/subBytesCaller.sv" type="Verilog" type_short="Verilog">
-            <Options VerilogStandard="System Verilog"/>
+            <Options VerilogStandard="System Verilog" top_module="subBytesCaller"/>
         </Source>
     </Implementation>
     <Strategy name="Strategy1" file="lab71.sty"/>
