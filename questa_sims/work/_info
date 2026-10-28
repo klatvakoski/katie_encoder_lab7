@@ -1,0 +1,281 @@
+m255
+K4
+z2
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7
+vaes
+Z0 DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+Z1 !s110 1793146650
+!i10b 1
+!s100 L6acinb=hk1C<LjM@oR4V2
+IGUn9kh_f>1Jd?IBYZKMQj3
+S1
+Z2 dC:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/questa_sims
+Z3 w1793146640
+Z4 8C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_starter.sv
+Z5 FC:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_starter.sv
+!i122 15
+L0 6 12
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z8 !s108 1793146650.000000
+Z9 !s107 C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_starter.sv|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_starter.sv|
+!i113 0
+Z11 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z12 tCvgOpt 0 defaultOptions 1085333592
+vaes_spi
+R0
+R1
+!i10b 1
+!s100 <Li9?55zzR@I>CcR;93nH1
+IAAiGgeLng18Q`]`27JfJ>2
+S1
+R2
+R3
+R4
+R5
+!i122 15
+L0 26 29
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vcounter
+2C:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/counter.sv
+R0
+R1
+!i10b 1
+!s100 oDG^HD8bG_`@AFeEdU^N_1
+I>5TnTNkzc8TjJ82mKzNZa0
+S1
+R2
+w1792965757
+8C:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/counter.sv
+FC:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/counter.sv
+!i122 17
+L0 2 27
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/counter.sv|
+!i113 0
+R11
+R12
+vgaloismult
+R0
+R1
+!i10b 1
+!s100 EZ_XP2oJ3Bf`[==N@hfA60
+IZjCnLX5AWWU:P[ma?YNDi2
+S1
+R2
+R3
+R4
+R5
+!i122 15
+L0 236 8
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vmixcolumn
+R0
+R1
+!i10b 1
+!s100 O^X?g]1W>bBDRbCzO2Oja3
+ITeWTKHm1?8QM`cZK;_fdc0
+S1
+R2
+R3
+R4
+R5
+!i122 15
+L0 209 19
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vmixcolumns
+R0
+R1
+!i10b 1
+!s100 CZ_j?5z[b]afbNKhNN<;O3
+IDV?I5iYC^oEJP^bXmWWIk0
+S1
+R2
+R3
+R4
+R5
+!i122 15
+L0 193 8
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vsbox_sync
+R0
+R1
+!i10b 1
+!s100 <0dll?Nak>]e1e;z9o2RP0
+IZ7cC8eWDO?e069@7OloVz3
+S1
+R2
+R3
+R4
+R5
+!i122 15
+L0 169 16
+R6
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 0
+R11
+R12
+vsubBytes
+2C:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/subBytes.sv
+R0
+R1
+!i10b 1
+!s100 `YFF?clbcbH0]jO44B[nm0
+I_2_0aMfY]hU1HL:bbXoCW3
+S1
+R2
+w1792968845
+8C:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/subBytes.sv
+FC:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/subBytes.sv
+!i122 16
+L0 1 6
+R6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/subBytes.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/klatvakoski/Documents/GitHub/katie_encoder_lab7/lab7/source/impl_1/subBytes.sv|
+!i113 0
+R11
+R12
+nsub@bytes
+vtestbench_aes_core
+2C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_core_tb.sv
+R0
+Z13 !s110 1793146649
+!i10b 1
+!s100 FIO7h3@d^kFng7_gbKhj30
+IV`NYzNQEflMOEn@6ZA[d53
+S1
+R2
+Z14 w1792955218
+8C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_core_tb.sv
+FC:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_core_tb.sv
+!i122 12
+L0 11 42
+R6
+R7
+r1
+!s85 0
+31
+Z15 !s108 1793146649.000000
+!s107 C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_core_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_core_tb.sv|
+!i113 0
+R11
+R12
+vtestbench_aes_sbox
+2C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_sbox_tb.sv
+R0
+R13
+!i10b 1
+!s100 E802:^hIgYbZd^<0leGNb3
+IB>@:WR9Wd:^:@?EEjD`S:0
+S1
+R2
+R14
+8C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_sbox_tb.sv
+FC:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_sbox_tb.sv
+!i122 13
+L0 7 67
+R6
+R7
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_sbox_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_sbox_tb.sv|
+!i113 0
+R11
+R12
+vtestbench_aes_spi
+2C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_spi_tb.sv
+R0
+R1
+!i10b 1
+!s100 ECM4U[SG6oCU]XGW;T?IF2
+I]edX4ej8@FOjA5>N_7oZ61
+S1
+R2
+R14
+8C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_spi_tb.sv
+FC:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_spi_tb.sv
+!i122 14
+L0 8 73
+R6
+R7
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_spi_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/klatvakoski/Documents/lab07/lab07_fpga/src/aes_spi_tb.sv|
+!i113 0
+R11
+R12

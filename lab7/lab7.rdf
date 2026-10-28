@@ -13,7 +13,7 @@
             <Options VerilogStandard="System Verilog" top_module="testbench_aes_spi"/>
         </Source>
         <Source name="../../../lab07/lab07_fpga/src/aes_starter.sv" type="Verilog" type_short="Verilog">
-            <Options VerilogStandard="System Verilog" top_module="mixcolumns"/>
+            <Options VerilogStandard="System Verilog"/>
         </Source>
         <Source name="source/impl_1/subBytes.sv" type="Verilog" type_short="Verilog">
             <Options VerilogStandard="System Verilog" top_module="subBytes"/>
